@@ -8,3 +8,6 @@
 
 ## Optional (for comparison):
 [AFFECT (Adaptive Forgetting Factor for Evolutionary Clustering and Tracking) ](http://tbayes.eecs.umich.edu/xukevin/affect)
+
+## Demo
+After installing the required packages, run deom.m
