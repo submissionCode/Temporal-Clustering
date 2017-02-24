@@ -20,8 +20,8 @@ rateMinPower = [1];	%
 rateMaxPower = rateMinPower;
 repeat = 1;		% generate a network with the same parameters
 PA.numNet = 1; 
-PA.minClusSize = 10;	%minum number of nodes in a cluster
-PA.maxClusSize = 60;	% max num
+PA.minClusSize = 5;	%minum number of nodes in a cluster
+PA.maxClusSize = 15;	% max num
 PA.minTseg = 4;			% min segments on the time interval[1, T] for generating cluster lifetime
 PA.maxTseg = 10;
 

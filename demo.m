@@ -26,3 +26,6 @@ Fac = ncp(Y,r,opts);	% run nonnegative PARAFAC without constraint.
 Fac = normalizeComponents([1 2], Fac, 3);
 % obtain a ranked list of clusters from the PARAFAC results.
 rankedClus = rankClusForTD(Fac.u{1}, Fac.u{2}, Fac.u{3}, Fac.lambda, getClusterFromTD(Fac));
+
+%%evaluation
+% demo_evaluation 
