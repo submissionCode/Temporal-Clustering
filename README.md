@@ -1,4 +1,6 @@
 # Temporal Clustering Matlab Code
+## Supplementary Material
+  Please refer to supplementary.pdf
 
 ## Requirement:
 
